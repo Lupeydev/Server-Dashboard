@@ -1,0 +1,15 @@
+body {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 400;
+  background-color: black;
+  color: white;
+}
+
+.piholep {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
